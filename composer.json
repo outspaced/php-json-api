@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.5.0",
         "nilportugues/api-transformer": "<=3.0.0",
-        "symfony/psr-http-message-bridge" : "^0.2|^0.3"
+        "symfony/psr-http-message-bridge" : "dev-master#c2b757934f2d9681a287e662efbc27c41fe8ef86"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*",
